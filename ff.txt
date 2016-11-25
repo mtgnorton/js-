@@ -1,6 +1,6 @@
 111
 222
-<<<<<<< HEAD
+
 master
 fadfaj;lkfasdf
 fadsfasf
@@ -10,5 +10,5 @@ mtg
 fadfasfasdfa
 fasdfasdfasdf
 fasdfasdfasdf
->>>>>>> mtg
+
 end
